@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Hari Hariansah
 
-<!--
-**hariansah1922/Hariansah1922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 **Junior Penetration Tester & SOC Analyst**  
+🎓 CEH Certified | 🎯 OWASP Top 10 | 🛡️ Log & Threat Analysis  
+📍 Sukabumi, Indonesia | 📧 harihariansah92@mail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tools & Skills
+- **Pentest**: Nmap, ffuf, Burp Suite, Hydra, SQLMap, Metasploit
+- **Web Exploits**: XSS, SQL Injection, LFI, CSRF (via DVWA & CVE)
+- **SOC Tools**: Wazuh, Splunk, OSSEC, Wireshark, Log Analysis
+- **Languages**: Bash, Python, Regex
+- **OS**: Kali Linux, Ubuntu, Docker
+
+---
+
+## 🧪 Labs & Projects
+- 🔍 [DVWA Pentest Reports (XSS, SQLi)](https://github.com/hariansah1922/cybersecurity-portfolio/tree/main/pentest-reports)
+- 🛡️ [Wazuh Alert & Incident Response](https://github.com/hariansah1922/cybersecurity-portfolio/tree/main/soc-reports)
+- ⚔️ [CVE Exploitation Lab](https://github.com/hariansah1922/cybersecurity-portfolio)
+
+---
+
+## 📜 Certifications
+- 🎖️ Certified Ethical Hacker (CEH) – EC-Council, 2025
+
+---
+
+## 📬 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/hari-hariansah-1283b7366)
+- [GitHub Portfolio](https://github.com/hariansah1922/cybersecurity-portfolio)
