@@ -1,32 +1,65 @@
-# 👋 Hi, I'm Hari Hariansah
+#👋 Hi, I'm Hari Hariansah
 
-🔐 **Junior Penetration Tester & SOC Analyst**  
-🎓 CEH Certified | 🎯 OWASP Top 10 | 🛡️ Log & Threat Analysis  
-📍 Sukabumi, Indonesia | 📧 harihariansah92@mail.com
-
----
-
-## 🧰 Tools & Skills
-- **Pentest**: Nmap, ffuf, Burp Suite, Hydra, SQLMap, Metasploit
-- **Web Exploits**: XSS, SQL Injection, LFI, CSRF (via DVWA & CVE)
-- **SOC Tools**: Wazuh, Splunk, OSSEC, Wireshark, Log Analysis
-- **Languages**: Bash, Python, Regex
-- **OS**: Kali Linux, Ubuntu, Docker
+🔐 Cybersecurity Professional | SOC Analyst | Penetration Tester
+🎓 Certified Ethical Hacker | 🛡️ SOC Operations | 🌐 Web Application Security
+📍 Sukabumi, Indonesia | 📧 harihariansah92@gmail.com
 
 ---
+## 🛠️ Technical Skills
 
-## 🧪 Labs & Projects
-- 🔍 [DVWA Pentest Reports (XSS, SQLi)](https://github.com/hariansah1922/cybersecurity-portfolio/tree/main/pentest-reports)
-- 🛡️ [Wazuh Alert & Incident Response](https://github.com/hariansah1922/cybersecurity-portfolio/tree/main/soc-reports)
-- ⚔️ [CVE Exploitation Lab](https://github.com/hariansah1922/cybersecurity-portfolio)
+**Penetration Testing:**
+- **Tools:** Nmap, Burp Suite, Metasploit, SQLMap, Hydra, ffuf
+- **Web Application Security:** OWASP Top 10, SQL Injection, XSS, CSRF
+- **Network Security:** Vulnerability Assessment, Service Enumeration, Exploitation
+- **Methodology:** Reconnaissance, Scanning, Exploitation, Post-Exploitation
 
----
+**SOC & Security Monitoring:**
+- **SIEM & Monitoring:** Wazuh, ELK Stack
+- **Incident Response:** Log Analysis, Threat Hunting, Alert Triage
+- **Network Analysis:** Wireshark, Traffic Analysis, Packet Inspection
 
-## 📜 Certifications
-- 🎖️ Certified Ethical Hacker (CEH) – EC-Council, 2025
+**Development & Automation:**
+- **Scripting:** Bash, Python (Security Automation)
+- **Operating Systems:** Kali Linux, Ubuntu, Windows Server
+- **Containerization:** Docker, Virtualization
 
----
+## 🔬 Hands-On Labs & Projects
 
-## 📬 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/hari-hariansah-1283b7366)
-- [GitHub Portfolio](https://github.com/hariansah1922/cybersecurity-portfolio)
+**🌐 DVWA Web Application Penetration Testing**
+- Conducted comprehensive security assessment of Damn Vulnerable Web Application
+- Exploited OWASP Top 10 vulnerabilities including SQL Injection and XSS
+- Documented findings and remediation recommendations
+
+**🛡️ SOC Monitoring & Incident Response**
+- Configured and monitored Wazuh SIEM for security alerts
+- Performed log analysis and threat investigation
+- Developed incident response procedures
+
+**⚡ Vulnerability Research & CVE Exploitation**
+- Researched and practiced exploitation of published CVEs
+- Conducted vulnerability assessment in controlled lab environments
+- Applied patch management and mitigation strategies
+
+## 📜 Certifications & Education
+
+**Certifications:**
+- ✅ **Certified Ethical Hacker (CEH)** - EC-Council (2025)
+- ✅ **Cisco Cybersecurity Essentials** - Cisco Networking Academy
+- ✅ **Mastercard Cybersecurity Job Simulation** - Forage
+
+**Education:**
+- **D3 Manajemen Informatika** - Bina Sarana Informatika (2016)
+- **SMK Teknik Komputer dan Jaringan** - SMK Yasti (2012)
+
+## 📊 Currently Learning & Improving
+
+- Advanced Penetration Testing Techniques
+- Cloud Security Fundamentals
+- Python for Security Automation
+- Threat Intelligence Analysis
+
+## 📬 Let's Connect
+
+- **LinkedIn:** www.linkedin.com/in/hariansah
+- **GitHub:** https://github.com/hariansah1922
+- **Email:** harihariansah92@gmail.com
